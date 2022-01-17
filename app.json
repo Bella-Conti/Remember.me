@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "remember-me",
+    "slug": "remember-me",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "remember-me"
+}
